@@ -133,6 +133,8 @@ namespace DownloadingSimulator
                 {
                     var leftBytes = filesize - downloaded;
 
+                    downloaded = leftBytes;
+
                     var leftDt = (int)((leftBytes / speed) * 1000);
 
                     dt = leftDt;

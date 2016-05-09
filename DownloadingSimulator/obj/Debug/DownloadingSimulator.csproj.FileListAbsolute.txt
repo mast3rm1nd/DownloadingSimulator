@@ -11,3 +11,16 @@ F:\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debu
 F:\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.csproj.GenerateResource.Cache
 F:\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.exe
 F:\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\bin\Debug\DownloadingSimulator.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\bin\Debug\DownloadingSimulator.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\DownloadingSimulator\DownloadingSimulator\obj\Debug\DownloadingSimulator.csproj.GenerateResource.Cache
